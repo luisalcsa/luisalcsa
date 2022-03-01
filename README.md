@@ -4,7 +4,7 @@
 - 🔭 Desenvolvedora Front-end
 - 📕 Estudando Node.Js e Angular
 - 📲 Contate-me no email luisaaraujo218@gmail.com
-- <div align="left">
+ <div align="left">
   <a href="https://github.com/luisalcsa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisalcsa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
