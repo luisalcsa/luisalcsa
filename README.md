@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedora Front-end
-- 📕 Estudando Node.Js e Angular
+- 
 - 📲 Contate-me no email luisaaraujo218@gmail.com
  <div align="left">
   <a href="https://github.com/luisalcsa">
