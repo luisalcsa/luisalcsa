@@ -1,7 +1,7 @@
 ### Olá✨
 
 
-- 🔭 Desenvolvedora Front-end
+- 🔭 Desenvolvedora Back-end
 - 📲 Contate-me no email luisaaraujo218@gmail.com
  <div align="left">
   <a href="https://github.com/luisalcsa">
